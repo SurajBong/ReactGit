@@ -88,3 +88,12 @@ Now go to you project folder in local and run following command.
 ## you can find this changes while creating a repository on github.
 ## To push our files to remote. Run following command.
 --> git push -u origin master
+
+
+## To clone an existing github repository to your local.
+First create a github repository and initialized readme.md file and license file. Then click create repository.
+This will land you directly into repository and won't ask you add any local repository.
+
+## Steps to clone with your specified project name
+Run --> git clone [git repo path. copy from github] [your folder name]
+To hard remove cloned project from local. Run --> rm -rf [folder name]
