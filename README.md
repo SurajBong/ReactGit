@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts with git bash.
 ## Suraj has added.
+In the project directory, you can run:
+In the project directory, you can run: This is going to cause trouble.
 In the project directory, you can run:update from master branch
 
 ### `npm start`
