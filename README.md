@@ -1,4 +1,4 @@
-This project is created for study purpose to understand GIT using git bash and remote github repository management.
+## This project is created for study purpose to understand GIT using git bash and remote github repository management.
 
 We will try to understand basic commands to manage our local project and push it to remote repository.
 
